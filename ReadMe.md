@@ -26,4 +26,4 @@ In a real IDE, however, `import { useState } from ‘react’` is performed and 
 | srcH | Use Fragments to wrapp multiple HTML elements into one <div>               |
 | srcI | Change entire input-windows, depending on whether A or B applies           |
 | srcJ | Use one highly reusable, adaptable button component for diffrent use cases |
-| srcK |                                                                            |
+| srcK | Two-Way-Bindings, display the text a user inputs in an text field          |
