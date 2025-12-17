@@ -23,7 +23,7 @@ In a real IDE, however, `import { useState } from ‘react’` is performed and 
 | srcE | Use the hook via useState to toogle a boolean                    |
 | srcF | Dynamic Styling via useState of a button by toggeling            |
 | srcG | Display dynamic items from an Array, can also used for Objects   |
-| srcH |                                                                  |
+| srcH | Use Fragments to wrapp multiple HTML elements into one <div>     |
 | srcI | Change entire input-windows, depending on whether A or B applies |
 | srcJ |                                                                  |
 | srcK |                                                                  |
