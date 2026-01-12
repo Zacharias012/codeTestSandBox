@@ -12,6 +12,9 @@ All code examples were taken from the “udemy” coding environment. There, all
 `import React from ‘react’;” and then used with “React.useState(...)`.
 In a real IDE, however, `import { useState } from ‘react’` is performed and then used with `useState()`!
 
+### Source on GitHub:
+https://github.com/academind/react-complete-guide-course-resources/tree/main
+
 ### Table of contents:
 
 | src-?-?                                                        | Topic                                                                      |
